@@ -28,3 +28,7 @@ As análise feitas foram as seguintes:
 
    ![image](https://github.com/grazysmelo/Vendas_Pizzas/assets/129910270/54a7d1fe-e6a8-4c73-aa96-6c00ca3d433f)
 
+   Dashboard
+   -- Foi criado com o idioma inglês, pois foi da forma em que os dados foram disponibilizados.
+
+   ![image](https://github.com/grazysmelo/Vendas_Pizzas/assets/129910270/fe52a8bc-e7d3-4da1-b22c-6e894169e1aa)
